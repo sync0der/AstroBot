@@ -1,7 +1,9 @@
 # AstroBot v1.0
 
 AstroBot is a Telegram bot developed in Java that leverages NASA's APIs to provide users with access to various NASA services. Users can fetch stunning astronomy pictures, Earth snapshots from space, Mars rover photos, detailed Mars rover information, and images from NASA's vast image library.
-[Try AstroBot](https://t.me/astroexlporer_bot)
+
+# Important Info!
+[Astro Bot](https://t.me/astroexlporer_bot) is not yet fully deployed, as its functionalities are still being enhanced. While development and feature additions are ongoing, you can explore its current capabilities in the video. Please [watch the video](https://t.me/astrofunctions)  to get acquainted with the functionality.
 
 ## Features
 
